@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @date 2021/9/14 10:07
  */
 public class RemoteControl {
-    Command[] onCommands;
+     Command[] onCommands;
     Command[] offCommands;
     Command undoCommand;
 
