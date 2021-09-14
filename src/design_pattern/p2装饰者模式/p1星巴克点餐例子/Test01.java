@@ -9,6 +9,10 @@ public class Test01 {
     public static void main(String[] args) {
         Beverage espresso = new Espresso();
         espresso = new Mocha(espresso);
+//        加两个mocha
+        Mocha mocha = new Mocha(espresso);
+
+        System.out.println(mocha);
 
         System.out.println(espresso.getDescripton());
         System.out.println("---------");
