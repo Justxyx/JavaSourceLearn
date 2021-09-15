@@ -1,5 +1,7 @@
 package test;
 
+import java.util.Arrays;
+
 /**
  * @author xm
  * @version 1.0
@@ -23,6 +25,11 @@ public abstract class Test01 {
     void method2(){
         System.out.println(name);
         System.out.println(pwd);
+        int[] a = new int[5];
+        for (int i = 0; i < 5; i++) {
+            a[i] = 3;
+        }
+        Arrays.sort(a);
     }
 }
 
