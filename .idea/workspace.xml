@@ -2,245 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df73f14-f29b-46a9-8b91-3149bdc9b559" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p3迭代器cc/笔记.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p10组合模式/Menu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p10组合模式/MenuComponent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p10组合模式/MenuItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p10组合模式/Test01.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p10组合模式/Waiteress.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p10组合模式/笔记.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/jdk_source/p2util/p2Iterator/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/VendingMachine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/A.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/HasMoneyState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/NoMoneyState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldOutState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/State.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/VendingMachine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/WinnerState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/ILift.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/Lift.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/Test01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Closed.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Elevator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Open.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Run.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/State.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Stop.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/A.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/HasMoney.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/Machine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/NoMoney.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/OnButton.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/SoldOut.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/State.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/CurrentConditionsDisplay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/DisplayElement.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/Observer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/Subject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/WeatherData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/WeatherStation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p1实现一个气象站/笔记.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p2java内置观察者模式/CurrentConditionsDisplay.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p2java内置观察者模式/DisplayElement.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p2java内置观察者模式/WeatherData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p1观察者模式/p2java内置观察者模式/WeatherStation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/Beverage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/Condiment.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/Espresso.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/HouseBlend.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/Mocha.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p1星巴克点餐例子/笔记.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/Arms.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/BlueDecorator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/Equi.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/EquiDecorator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/GreenDecorator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/RedDecorator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/Ring.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/Wrist.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p2装饰者模式/p2装饰者模式再详解/需求.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/ChessPizza.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/GreekPizza.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/Pizza.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/PizzaStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/SimplePizzaFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/Test02.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p1简单工厂/笔记.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/CHPizzaStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/ChChessStylePizza.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/NYChessStylePizza.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/NYPizzaStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/Pizza.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/PizzaStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p3工厂模式/p2Pizza店升级/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p4单例模式/Singleton.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p4单例模式/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p4单例模式/UserSingleton.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p1一个简单的遥控器/Command.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p1一个简单的遥控器/Light.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p1一个简单的遥控器/LightOnCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p1一个简单的遥控器/SimpleRemoteControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p1一个简单的遥控器/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/CeilingFan.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/CeilingFanHighCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/Command.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/Light.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/LightOffCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/LightOnCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/RemoteControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/Test02.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p5命令模式/p2实现遥控器/noCommand.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/AChicken.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/ADuck.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/Chicken.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/ChickenAdapter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/Duck.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p6适配器模式/p1一个简单的适配器/笔记.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p7外观模式/p1外观模式的实现/Curtain.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p7外观模式/p1外观模式的实现/Popcorn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p7外观模式/p1外观模式的实现/Projector.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p7外观模式/p1外观模式的实现/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p7外观模式/p1外观模式的实现/Theater.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/ACaffee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/ATee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/CaffeeBeverage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/Coffee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/tee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p1冲一杯咖啡吧/笔记.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p2模板与钩子函数/Caffee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p2模板与钩子函数/CaffeeBeverage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p2模板与钩子函数/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p3模板方法模式再详解/Boss.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p3模板方法模式再详解/ITWorker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p3模板方法模式再详解/TWorker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p3模板方法模式再详解/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/p3模板方法模式再详解/Worker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/B.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/C.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/D.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/E.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/F.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p1/Father.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p1/Son.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p1/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p2/Father.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p2/Son.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p3/A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p8模板方法/继承问题/p3/B.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/BarA.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/BarAIterator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/BarB.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/BarBIterator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/Food.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/Iterator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/MenuA.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/MenuB.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p1一个简单的点餐/笔记.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p2实现一个迭代器/Iterator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p2实现一个迭代器/IteratorImp.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSourceLearn/design_pattern/p9迭代器模式/p2实现一个迭代器/Test01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/CurrentConditionsDisplay.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/CurrentConditionsDisplay.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/DisplayElement.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/DisplayElement.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/Observer.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/Observer.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/Subject.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/Subject.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/WeatherData.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/WeatherData.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/WeatherStation.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/WeatherStation.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p1实现一个气象站/笔记.md" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p1实现一个气象站/笔记.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p2java内置观察者模式/CurrentConditionsDisplay.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p2java内置观察者模式/CurrentConditionsDisplay.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p2java内置观察者模式/DisplayElement.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p2java内置观察者模式/DisplayElement.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p2java内置观察者模式/WeatherData.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p2java内置观察者模式/WeatherData.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p1观察者模式/p2java内置观察者模式/WeatherStation.java" afterPath="$PROJECT_DIR$/src/design_pattern/p01观察者模式/p2java内置观察者模式/WeatherStation.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/Beverage.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/Beverage.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/Condiment.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/Condiment.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/Espresso.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/Espresso.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/HouseBlend.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/HouseBlend.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/Mocha.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/Mocha.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p1星巴克点餐例子/笔记.md" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p1星巴克点餐例子/笔记.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/Arms.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/Arms.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/BlueDecorator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/BlueDecorator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/Equi.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/Equi.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/EquiDecorator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/EquiDecorator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/GreenDecorator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/GreenDecorator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/RedDecorator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/RedDecorator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/Ring.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/Ring.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/Wrist.java" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/Wrist.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p2装饰者模式/p2装饰者模式再详解/需求.md" afterPath="$PROJECT_DIR$/src/design_pattern/p02装饰者模式/p2装饰者模式再详解/需求.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/ChessPizza.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/ChessPizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/GreekPizza.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/GreekPizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/Pizza.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/Pizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/PizzaStore.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/PizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/SimplePizzaFactory.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/SimplePizzaFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/Test02.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/Test02.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p1简单工厂/笔记.md" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p1简单工厂/笔记.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/CHPizzaStore.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/CHPizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/ChChessStylePizza.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/ChChessStylePizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/NYChessStylePizza.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/NYChessStylePizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/NYPizzaStore.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/NYPizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/Pizza.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/Pizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/PizzaStore.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/PizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p3工厂模式/p2Pizza店升级/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p03工厂模式/p2Pizza店升级/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p4单例模式/Singleton.java" afterPath="$PROJECT_DIR$/src/design_pattern/p04单例模式/Singleton.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p4单例模式/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p04单例模式/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p4单例模式/UserSingleton.java" afterPath="$PROJECT_DIR$/src/design_pattern/p04单例模式/UserSingleton.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p1一个简单的遥控器/Command.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p1一个简单的遥控器/Command.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p1一个简单的遥控器/Light.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p1一个简单的遥控器/Light.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p1一个简单的遥控器/LightOnCommand.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p1一个简单的遥控器/LightOnCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p1一个简单的遥控器/SimpleRemoteControl.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p1一个简单的遥控器/SimpleRemoteControl.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p1一个简单的遥控器/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p1一个简单的遥控器/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/CeilingFan.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/CeilingFan.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/CeilingFanHighCommand.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/CeilingFanHighCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/Command.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/Command.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/Light.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/Light.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/LightOffCommand.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/LightOffCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/LightOnCommand.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/LightOnCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/RemoteControl.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/RemoteControl.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/Test02.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/Test02.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p5命令模式/p2实现遥控器/noCommand.java" afterPath="$PROJECT_DIR$/src/design_pattern/p05命令模式/p2实现遥控器/noCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/AChicken.java" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/AChicken.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/ADuck.java" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/ADuck.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/Chicken.java" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/Chicken.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/ChickenAdapter.java" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/ChickenAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/Duck.java" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/Duck.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p6适配器模式/p1一个简单的适配器/笔记.md" afterPath="$PROJECT_DIR$/src/design_pattern/p06适配器模式/p1一个简单的适配器/笔记.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p7外观模式/p1外观模式的实现/Curtain.java" afterPath="$PROJECT_DIR$/src/design_pattern/p07外观模式/p1外观模式的实现/Curtain.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p7外观模式/p1外观模式的实现/Popcorn.java" afterPath="$PROJECT_DIR$/src/design_pattern/p07外观模式/p1外观模式的实现/Popcorn.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p7外观模式/p1外观模式的实现/Projector.java" afterPath="$PROJECT_DIR$/src/design_pattern/p07外观模式/p1外观模式的实现/Projector.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p7外观模式/p1外观模式的实现/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p07外观模式/p1外观模式的实现/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p7外观模式/p1外观模式的实现/Theater.java" afterPath="$PROJECT_DIR$/src/design_pattern/p07外观模式/p1外观模式的实现/Theater.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/ACaffee.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/ACaffee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/ATee.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/ATee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/CaffeeBeverage.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/CaffeeBeverage.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/Coffee.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/Coffee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/tee.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/tee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/笔记.md" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/笔记.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p2模板与钩子函数/Caffee.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p2模板与钩子函数/Caffee.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p2模板与钩子函数/CaffeeBeverage.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p2模板与钩子函数/CaffeeBeverage.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p2模板与钩子函数/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p2模板与钩子函数/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/Boss.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/Boss.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/ITWorker.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/ITWorker.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/TWorker.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/TWorker.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/Worker.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/Worker.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/A.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/B.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/C.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/C.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/D.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/D.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/E.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/E.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/F.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/F.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p1/Father.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p1/Father.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p1/Son.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p1/Son.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p1/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p1/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p2/Father.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p2/Father.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p2/Son.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p2/Son.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p3/A.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p3/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p3/B.java" afterPath="$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p3/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarA.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarA.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarAIterator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarAIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarB.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarB.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarBIterator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarBIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/Food.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/Food.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/Iterator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/Iterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/MenuA.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/MenuA.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/MenuB.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/MenuB.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/Test01.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/笔记.md" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/笔记.md" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2实现一个迭代器/Iterator.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p2实现一个迭代器/Iterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2实现一个迭代器/IteratorImp.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p2实现一个迭代器/IteratorImp.java" />
-      <change beforePath="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2实现一个迭代器/Test01.java" afterPath="$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p2实现一个迭代器/Test01.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -269,67 +58,134 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MenuComponent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/MenuComponent.java">
+      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/State.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="83">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Machine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/Machine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VendingMachine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/VendingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="27" />
               <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#927#928#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1023#1024#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#874#875#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#1291#1292#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1427#1428#0" expanded="true" />
+                <element signature="e#1462#1463#0" expanded="true" />
+                <element signature="e#1604#1605#0" expanded="true" />
+                <element signature="e#1640#1641#0" expanded="true" />
+                <element signature="e#1675#1676#0" expanded="true" />
+                <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1746#1747#0" expanded="true" />
+                <element signature="e#1781#1782#0" expanded="true" />
+                <element signature="e#1820#1821#0" expanded="true" />
+                <element signature="e#1854#1855#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="笔记.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/笔记.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="27">
-                <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="SoldOutState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldOutState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Waiteress.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/Waiteress.java">
+      <file leaf-file-name="HasMoneyState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/HasMoneyState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoMoneyState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/NoMoneyState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-54">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoMoney.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/NoMoney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasMoney.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/HasMoney.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/Test01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -360,40 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/A.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/D.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/C.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/E.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/F.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/Test01.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p1/Father.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p1/Son.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p1/Test01.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p2/Father.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p2/Son.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p1冲一杯咖啡吧/CaffeeBeverage.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p2模板与钩子函数/Caffee.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p2模板与钩子函数/Test01.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p2模板与钩子函数/CaffeeBeverage.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p3/A.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/继承问题/p3/B.java" />
-        <option value="$PROJECT_DIR$/src/test/Test01.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/TWorker.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/Test01.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/Worker.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/Boss.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p8模板方法/p3模板方法模式再详解/ITWorker.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarB.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarA.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarBIterator.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/MenuB.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/MenuA.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/Test01.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/Food.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/BarAIterator.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2自己动手写一个迭代器/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2自己动手写一个迭代器/Container.java" />
         <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2自己动手写一个迭代器/Test01.java" />
         <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p1一个简单的点餐/笔记.md" />
         <option value="$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2实现一个迭代器/Iterator.java" />
@@ -411,6 +233,40 @@
         <option value="$PROJECT_DIR$/src/design_pattern/p10组合模式/Menu.java" />
         <option value="$PROJECT_DIR$/src/design_pattern/p10组合模式/MenuComponent.java" />
         <option value="$PROJECT_DIR$/src/design_pattern/p10组合模式/笔记.md" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/Test01.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/State.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/NoMoneyState.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/HasMoneyState.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldState.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/WinnerState.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/Test01.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/Vending.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/State.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/NoMoney.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/Machine.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/HasMoney.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4再来一个例子/Hero.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/ILift.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/Lift.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/Test01.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/State.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Stop.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Open.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Closed.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Run.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Elevator.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Test.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/A.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/State.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/HasMoney.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/SoldOut.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/OnButton.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/NoMoney.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/A.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/Machine.java" />
       </list>
     </option>
   </component>
@@ -481,94 +337,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
-              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
-              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
-              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
-              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
-              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
-              <item name="p1lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
-              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
-              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
-              <item name="p1lang" type="462c0819:PsiDirectoryNode" />
-              <item name="p3string" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaSourceLearn" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSourceLearn" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-              <item name="source" type="cbb8eebc:String" user="source" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="design_pattern" type="cbb8eebc:String" user="design_pattern" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="design_pattern" type="cbb8eebc:String" user="design_pattern" />
-              <item name="p07外观模式" type="cbb8eebc:String" user="p07外观模式" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="design_pattern" type="cbb8eebc:String" user="design_pattern" />
-              <item name="p10组合模式" type="cbb8eebc:String" user="p10组合模式" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="test" type="cbb8eebc:String" user="test" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -635,6 +404,68 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="JavaSourceLearn" type="cbb8eebc:String" user="JavaSourceLearn" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="design_pattern" type="cbb8eebc:String" user="design_pattern" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
+              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
+              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
+              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="p1lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSourceLearn" type="1abcf292:AndroidViewProjectNode" />
+              <item name="JavaSourceLearn" type="1039202d:NonAndroidModuleNode" />
+              <item name="java" type="b5c1fe26:NonAndroidSourceTypeNode" />
+              <item name="p1lang" type="462c0819:PsiDirectoryNode" />
+              <item name="p3string" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSourceLearn" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSourceLearn" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -648,22 +479,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\IdeaProjects\JDK_Source\JavaSourceLearn\img\p1" />
-      <recent name="D:\project\IdeaProjects\JDK_Source\JavaSourceLearn\img" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="p1lang.p2integer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\project\IdeaProjects\JavaSourceLearn\src\design_pattern\p1观察者模式\p2java内置观察者模式" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="design_pattern.p11状态模式.p4自己来写一个" />
+      <recent name="design_pattern.p11状态模式.p3一个比较好理解的例子.重构" />
       <recent name="design_pattern.p9迭代器模式.p1一个简单的点餐" />
       <recent name="design_pattern.p8模板方法.p3模板方法模式再详解" />
       <recent name="design_pattern.p8模板方法.继承问题" />
-      <recent name="design_pattern.p8模板方法.p1冲一杯咖啡吧" />
-      <recent name="design_pattern.p2装饰者模式.p2装饰者模式再详解" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="p1lang.p2integer" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\IdeaProjects\JDK_Source\JavaSourceLearn\img\p1" />
+      <recent name="D:\project\IdeaProjects\JDK_Source\JavaSourceLearn\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -678,13 +509,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test01 (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="design_pattern.p11状态模式.p3一个比较好理解的例子.重构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="design_pattern.p11状态模式.p3一个比较好理解的例子.重构.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaSourceLearn" />
+      <envs />
     </configuration>
     <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -705,14 +555,52 @@
       <module name="JavaSourceLearn" />
       <envs />
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jdk_source.p2util.p2Iterator.*" />
+          <option name="PATTERN" value="design_pattern.p11状态模式.p1一个售货机的小例子.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jdk_source.p2util.p2Iterator.Test01" />
+      <option name="MAIN_CLASS_NAME" value="design_pattern.p11状态模式.p1一个售货机的小例子.Test01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaSourceLearn" />
+      <envs />
+    </configuration>
+    <configuration name="Test01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="design_pattern.p11状态模式.p2代码重构.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="design_pattern.p11状态模式.p2代码重构.Test01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaSourceLearn" />
+      <envs />
+    </configuration>
+    <configuration name="Test01 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="design_pattern.p11状态模式.p3一个比较好理解的例子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="design_pattern.p11状态模式.p3一个比较好理解的例子.Test01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -875,19 +763,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test01 (5)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test01 (4)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test01 (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test01 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test01" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test01 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test01 (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test01 (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test01 (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test01 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test01" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test01 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test01 (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test01 (3)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Test01 (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test01 (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -922,12 +810,13 @@
       <workItem from="1631670572403" duration="2015000" />
       <workItem from="1631674773886" duration="12216000" />
       <workItem from="1631755168581" duration="604000" />
-      <workItem from="1631762150413" duration="19928000" />
+      <workItem from="1631762150413" duration="19969000" />
+      <workItem from="1631841011965" duration="18581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137237000" />
+    <option name="totallyTimeSpent" value="155859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -940,7 +829,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19384265" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -950,12 +838,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50741166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26339796" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22462942" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18928164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19849785" sideWeight="0.46750286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20118026" sideWeight="0.46750286" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19420601" sideWeight="0.48232612" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1039,371 +927,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p1/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p1/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p1/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p2/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p2/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p1冲一杯咖啡吧/CaffeeBeverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p2模板与钩子函数/Caffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p2模板与钩子函数/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39798">
-          <caret line="1501" column="6" lean-forward="false" selection-start-line="1501" selection-start-column="6" selection-end-line="1501" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5027#5028#0" expanded="false" />
-            <element signature="e#5098#5099#0" expanded="false" />
-            <element signature="e#6903#6904#0" expanded="false" />
-            <element signature="e#6974#6975#0" expanded="false" />
-            <element signature="e#8781#8782#0" expanded="false" />
-            <element signature="e#8852#8853#0" expanded="false" />
-            <element signature="e#10659#10660#0" expanded="false" />
-            <element signature="e#10730#10731#0" expanded="false" />
-            <element signature="e#12536#12537#0" expanded="false" />
-            <element signature="e#12595#12596#0" expanded="false" />
-            <element signature="e#14928#14929#0" expanded="false" />
-            <element signature="e#14999#15000#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p2模板与钩子函数/CaffeeBeverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#338#339#0" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#426#427#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-            <element signature="e#544#545#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/TWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-          <folding>
-            <element signature="e#239#240#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#448#449#0" expanded="false" />
-            <element signature="e#476#477#0" expanded="false" />
-            <element signature="e#547#548#0" expanded="false" />
-            <element signature="e#600#601#0" expanded="false" />
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#680#681#0" expanded="false" />
-            <element signature="e#709#710#0" expanded="false" />
-            <element signature="e#759#760#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#173#174#0" expanded="false" />
-            <element signature="e#200#201#0" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#273#274#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/ITWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="e#181#182#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#254#255#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p3/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#254#255#0" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/继承问题/p3/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="e#159#160#0" expanded="false" />
-            <element signature="e#186#187#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p08模板方法/p3模板方法模式再详解/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#184#185#0" expanded="false" />
-            <element signature="e#219#220#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#444#445#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="e#391#392#0" expanded="false" />
-            <element signature="e#418#419#0" expanded="false" />
-            <element signature="e#453#454#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-            <element signature="e#515#516#0" expanded="false" />
-            <element signature="e#542#543#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarBIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#229#230#0" expanded="false" />
-            <element signature="e#263#264#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/MenuB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#184#185#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#469#470#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/BarAIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#262#263#0" expanded="false" />
-            <element signature="e#294#295#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/MenuA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#212#213#0" expanded="false" />
-            <element signature="e#244#245#0" expanded="false" />
-            <element signature="e#283#284#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2自己动手写一个迭代器/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2自己动手写一个迭代器/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p2自己动手写一个迭代器/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p1一个简单的点餐/笔记.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p2实现一个迭代器/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p2实现一个迭代器/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="53" column="27" lean-forward="false" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="151" column="16" lean-forward="false" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
-          <folding>
-            <element signature="e#33104#33105#0" expanded="false" />
-            <element signature="e#33178#33179#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1411,40 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
-          <folding>
-            <marker date="1617881529954" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1617881529954" expanded="false" signature="138:493" ph="..." />
-            <marker date="1617881529954" expanded="true" signature="1101:1386" ph="{...}" />
-            <marker date="1617881529954" expanded="false" signature="1445:1456" ph=" { " />
-            <marker date="1617881529954" expanded="false" signature="1489:1495" ph=" }" />
-            <marker date="1617881529954" expanded="true" signature="1582:2527" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="2606:3198" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="3252:3477" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="3530:3856" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="3908:4170" ph="{...}" />
-            <marker date="1617881529954" expanded="false" signature="4219:4230" ph=" { " />
-            <marker date="1617881529954" expanded="false" signature="4278:4284" ph=" }" />
-            <marker date="1617881529954" expanded="true" signature="4373:5052" ph="{...}" />
-            <marker date="1617881529954" expanded="false" signature="5094:5105" ph=" { " />
-            <marker date="1617881529954" expanded="false" signature="5157:5163" ph=" }" />
-            <marker date="1617881529954" expanded="false" signature="5221:5232" ph=" { " />
-            <marker date="1617881529954" expanded="false" signature="5290:5296" ph=" }" />
-            <marker date="1617881529954" expanded="true" signature="5341:5562" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="5629:5718" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="5782:5872" ph="{...}" />
-            <marker date="1617881529954" expanded="false" signature="5924:5935" ph=" { " />
-            <marker date="1617881529954" expanded="false" signature="5986:5992" ph=" }" />
-            <marker date="1617881529954" expanded="true" signature="6085:6887" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="6970:7298" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="8185:8394" ph="{...}" />
-            <marker date="1617881529954" expanded="false" signature="8225:8291" ph="run() → {" />
-            <marker date="1617881529954" expanded="false" signature="8371:8386" ph="}" />
-            <marker date="1617881529954" expanded="true" signature="8492:9802" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="9888:9955" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="10043:10112" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="10239:10437" ph="{...}" />
-            <marker date="1617881529954" expanded="true" signature="10450:10499" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1452,15 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8">
           <caret line="865" column="0" lean-forward="false" selection-start-line="865" selection-start-column="0" selection-end-line="865" selection-end-column="0" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="false" />
-            <element signature="e#6351#6352#0" expanded="false" />
-            <element signature="e#31007#31008#0" expanded="false" />
-            <element signature="e#31039#31040#0" expanded="false" />
-            <element signature="method#remove#0;class#Itr#0;class#ArrayList#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#Itr#0;class#ArrayList#0" expanded="false" />
-            <element signature="method#checkForComodification#0;class#Itr#0;class#ArrayList#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1468,11 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#247#248#0" expanded="false" />
-            <element signature="e#288#289#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1480,43 +959,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#225#226#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p3迭代器/MenuItme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p3迭代器/BreakFastMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p3迭代器/DinnerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p3迭代器/MenuItme.java" />
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p3迭代器/BreakFastMenu.java" />
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p9迭代器模式/p3迭代器/DinnerMenu.java" />
     <entry file="file://$PROJECT_DIR$/src/design_pattern/p09迭代器模式/p3迭代器cc/笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1350">
             <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1526,31 +979,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/MenuComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="297">
           <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#341#342#0" expanded="false" />
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#465#466#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#613#614#0" expanded="false" />
+            <element signature="e#678#679#0" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#785#786#0" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#886#887#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#992#993#0" expanded="false" />
+            <element signature="e#1023#1024#0" expanded="false" />
+            <element signature="e#1088#1089#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1560,14 +1012,14 @@
         <state relative-caret-position="351">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="false" />
+            <element signature="e#565#566#0" expanded="false" />
+            <element signature="e#607#608#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#690#691#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#767#768#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1577,10 +1029,10 @@
         <state relative-caret-position="189">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1590,24 +1042,24 @@
         <state relative-caret-position="286">
           <caret line="47" column="45" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="46" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#681#682#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#796#797#0" expanded="false" />
+            <element signature="e#831#832#0" expanded="false" />
+            <element signature="e#866#867#0" expanded="false" />
+            <element signature="e#908#909#0" expanded="false" />
+            <element signature="e#950#951#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="783">
           <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
           <folding />
         </state>
@@ -1616,11 +1068,377 @@
     <entry file="file://$PROJECT_DIR$/src/design_pattern/p10组合模式/笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="27">
-            <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/Vending.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/NoMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个简单一点的例子/HasMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4再来一个例子/tes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4再来一个例子/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/Lift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/ILift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Open.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#217#218#0" expanded="false" />
+            <element signature="e#257#258#0" expanded="false" />
+            <element signature="e#296#297#0" expanded="false" />
+            <element signature="e#340#341#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Stop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Closed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p3一个比较好理解的例子/重构/Elevator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/SoldOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p1一个售货机的小例子/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/OnButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/NoMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/HasMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p4自己来写一个/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/NoMoneyState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/HasMoneyState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/p11状态模式/p2代码重构/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="27" />
+          <folding>
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
+            <element signature="e#1462#1463#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
+            <element signature="e#1781#1782#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
+            <element signature="e#1854#1855#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
