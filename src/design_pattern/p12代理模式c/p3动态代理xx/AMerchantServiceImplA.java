@@ -1,0 +1,14 @@
+package design_pattern.p12代理模式c.p3动态代理xx;
+
+/**
+ * @author xm
+ * @date 2021/9/17 19:53
+ * @description:
+ */
+public class AMerchantServiceImplA implements ASellService {
+    @Override
+    public void sale(String name) {
+        System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAA");
+    }
+}
+
