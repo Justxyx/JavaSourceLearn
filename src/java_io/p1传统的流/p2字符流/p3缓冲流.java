@@ -14,8 +14,11 @@ public class p3缓冲流 {
         bfos.write("你好啊".getBytes());
         bfos.flush();
 
+
         FileInputStream fis = new FileInputStream("buffer.txt");
         BufferedInputStream bfis = new BufferedInputStream(fis);
+
+        FileReader x = new FileReader("x");
 
 
 
